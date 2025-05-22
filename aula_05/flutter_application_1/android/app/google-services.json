@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "151129393806",
+    "firebase_url": "https://aula5-uninter-default-rtdb.firebaseio.com",
+    "project_id": "aula5-uninter",
+    "storage_bucket": "aula5-uninter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151129393806:android:74451d8331c030486d97df",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1V_U3h3TM75bPuLXw2mW2gEUrW2aOK0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
